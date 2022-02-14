@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/mephis/AndroidStudioProjects/VideoPlayer/app/src/main/res/drawable/ic_play_icon.xml" value="0.1" />
+        <entry key="..\:/Users/mephis/AndroidStudioProjects/VideoPlayer/app/src/main/res/drawable/ic_replay.xml" value="0.1" />
         <entry key="..\:/Users/mephis/AndroidStudioProjects/VideoPlayer/app/src/main/res/layout/activity_main.xml" value="0.2171875" />
         <entry key="..\:/Users/mephis/AndroidStudioProjects/VideoPlayer/app/src/main/res/layout/activity_video_player.xml" value="0.2171875" />
         <entry key="..\:/Users/mephis/AndroidStudioProjects/VideoPlayer/app/src/main/res/layout/custom_controls_layout.xml" value="0.2171875" />
